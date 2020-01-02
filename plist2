@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://34.87.30.106/dnm-internew.ipa</string>
+					<string>http://51.79.142.220/dnm-internew.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://139.99.88.115/app_icon.png</string>
+					<string>http://51.79.142.220/app_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
